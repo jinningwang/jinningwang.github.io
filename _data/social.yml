@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://jinninggm@gmail.com
+  icon: fas fa-envelope
+- title: Google Scholar
+  url: https://scholar.google.com/citations?hl=en&user=Wr7nQZAAAAAJ
+  icon: icon-google-scholar
+- title: GitHub
+  url: https://github.com/jinningwang
+  icon: fab fa-github
