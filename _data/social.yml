@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://jinninggm@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: linkedin
+  url: https://www.linkedin.com/in/jinning-wang-846490199
+  icon: fab linkedin-in
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
